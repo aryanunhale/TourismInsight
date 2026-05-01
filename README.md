@@ -1,16 +1,18 @@
-# React + Vite
+# Tourism Insight 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Mini Project which features an excel, tableau and a website to showcase our research of tourism data. We have collected data of tourism data throughout India and displayed it in graphs to give a visual representation for multiple parameters.
 
-Currently, two official plugins are available:
+This is a Mini Project Made by:
+- Aryan Unhale [B25CE1059]
+- Ishita Yelne [B25CE1060]
+- Vedadny Bukke [B25CE1061]
+- Chaitanya Deshpande [B25CE1062]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+Files:
+- multiple frontend files
+- Our project Report
+- Excel data sheet
+- Tableau Sheet
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Visit `https://tourism-insight.vercel.app/`
